@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-- 🎯 Final-year **B.Tech (Electronics & Telecommunication)** graduate  
+- 🎯 **B.Tech (Electronics & Telecommunication)** graduate  
 - 📊 Aspiring **Data Analyst | Data Scientist**
 - 🧠 Passionate about **data-driven decision making**
 - 🚀 Love turning raw data into meaningful insights
