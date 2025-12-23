@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=parshva106.parshva106)
 
-<a href="https://www.linkedin.com/in/Parshva-Mehta/">
+<a href="https://www.linkedin.com/in/parshva-mehta/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mehtaparshva106@gmail.com">
